@@ -8,7 +8,6 @@ This project is a Spotify Wrapped web application that allows users to log in wi
 ## My Role & Contributions
 
 I was actively involved in:
-- **Frontend Development**: Implemented [specific feature, e.g., the dashboard UI using Bootstrap 4.3.1].
 - I was responsible for the **backend integration**, specifically implementing the **entire user registration logic flow**. This included:
 
   - Designing and implementing the **Spotify OAuth2 authentication system** to allow users to securely link their Spotify accounts.
